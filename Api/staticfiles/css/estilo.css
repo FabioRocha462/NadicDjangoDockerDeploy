@@ -1,0 +1,19 @@
+
+header{
+    background-color: #36738f;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#afastar{
+    margin-right: 200px;
+}
+#subir{
+    text-align: initial;
+}
+.json{
+  color:green;
+}
